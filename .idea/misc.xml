@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/drawable/back_edittext_search.xml" value="0.198" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/drawable/back_libros.xml" value="0.1" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.1475" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/drawable/selector.xml" value="0.2045" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_actualiza_us.xml" value="0.2" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_administra_us.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_crea_admins.xml" value="0.1911231884057971" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_crea_autores.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_crea_cuentos.xml" value="0.264" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_error.xml" value="0.20606884057971014" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_forgot_password.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_home.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_notificaciones.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_perfil.xml" value="0.24094202898550723" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_vadmin.xml" value="0.264" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_vlogin.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/activity_vregistro.xml" value="0.2" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/actualiza.xml" value="0.1" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/layout/view_usuario_single.xml" value="0.264" />
+        <entry key="..\:/Users/moxaj/AndroidStudioProjects/MyDreams/app/src/main/res/menu/menu_nav.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
